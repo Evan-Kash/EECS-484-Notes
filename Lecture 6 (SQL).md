@@ -90,6 +90,7 @@
 > - Conceptual evaluation 
 > 	- Partition data into groups according to some criterion
 > 	- Evaluate the aggregate for each group
+> 
 > ![[Pasted image 20240929221037.png]]
 > 
 > > [!info]- GROUP BY and HAVING
